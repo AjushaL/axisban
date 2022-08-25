@@ -6,7 +6,7 @@ public class BankApp{
     
   }
   void login(){
-    // with OTP 
+    // with OTP phone OTP implemented
   }
   
 }
