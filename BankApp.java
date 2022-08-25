@@ -10,5 +10,10 @@ public class BankApp{
     // with OTP 
     //implementation of OTP in email and phone done
   }
+  void loginWithOTP(){
+
+    // with OTP 
+    //implementation of OTP in email and phone done
+  }
   
 }
