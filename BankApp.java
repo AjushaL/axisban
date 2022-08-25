@@ -8,6 +8,7 @@ public class BankApp{
   void login(){
 
     // with OTP 
+    //implementation of OTP in email and phone
   }
   
 }
